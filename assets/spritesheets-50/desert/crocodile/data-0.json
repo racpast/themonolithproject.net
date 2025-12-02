@@ -1,0 +1,308 @@
+{"frames": {
+
+"小鳄鱼2_00000":
+{
+	"frame": {"x":444,"y":846,"w":431,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2556,"y":2156,"w":431,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00001":
+{
+	"frame": {"x":444,"y":846,"w":431,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2556,"y":2156,"w":431,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00002":
+{
+	"frame": {"x":444,"y":846,"w":431,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2556,"y":2156,"w":431,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00003":
+{
+	"frame": {"x":527,"y":174,"w":443,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2544,"y":2156,"w":443,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00004":
+{
+	"frame": {"x":527,"y":174,"w":443,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2544,"y":2156,"w":443,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00005":
+{
+	"frame": {"x":528,"y":1,"w":456,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2531,"y":2151,"w":456,"h":171},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00006":
+{
+	"frame": {"x":528,"y":1,"w":456,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2531,"y":2151,"w":456,"h":171},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00007":
+{
+	"frame": {"x":528,"y":1,"w":456,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2531,"y":2151,"w":456,"h":171},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00008":
+{
+	"frame": {"x":1,"y":337,"w":509,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2478,"y":2156,"w":509,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00009":
+{
+	"frame": {"x":1,"y":337,"w":509,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2478,"y":2156,"w":509,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00010":
+{
+	"frame": {"x":1,"y":337,"w":509,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2478,"y":2156,"w":509,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00011":
+{
+	"frame": {"x":1,"y":169,"w":524,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2463,"y":2156,"w":524,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00012":
+{
+	"frame": {"x":1,"y":169,"w":524,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2463,"y":2156,"w":524,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00013":
+{
+	"frame": {"x":1,"y":169,"w":524,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2463,"y":2156,"w":524,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00014":
+{
+	"frame": {"x":1,"y":1,"w":525,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2462,"y":2156,"w":525,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00015":
+{
+	"frame": {"x":1,"y":1,"w":525,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2462,"y":2156,"w":525,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00016":
+{
+	"frame": {"x":1,"y":505,"w":505,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2482,"y":2156,"w":505,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00017":
+{
+	"frame": {"x":1,"y":505,"w":505,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2482,"y":2156,"w":505,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00018":
+{
+	"frame": {"x":1,"y":505,"w":505,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2482,"y":2156,"w":505,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00019":
+{
+	"frame": {"x":507,"y":678,"w":500,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2487,"y":2156,"w":500,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00020":
+{
+	"frame": {"x":507,"y":678,"w":500,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2487,"y":2156,"w":500,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00021":
+{
+	"frame": {"x":1,"y":673,"w":504,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2483,"y":2156,"w":504,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00022":
+{
+	"frame": {"x":1,"y":673,"w":504,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2483,"y":2156,"w":504,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00023":
+{
+	"frame": {"x":508,"y":510,"w":505,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2482,"y":2156,"w":505,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00024":
+{
+	"frame": {"x":508,"y":510,"w":505,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2482,"y":2156,"w":505,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00025":
+{
+	"frame": {"x":508,"y":510,"w":505,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2482,"y":2156,"w":505,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00026":
+{
+	"frame": {"x":512,"y":342,"w":507,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2480,"y":2156,"w":507,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00027":
+{
+	"frame": {"x":512,"y":342,"w":507,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2480,"y":2156,"w":507,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00028":
+{
+	"frame": {"x":512,"y":342,"w":507,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2480,"y":2156,"w":507,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00029":
+{
+	"frame": {"x":1,"y":841,"w":441,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2546,"y":2124,"w":441,"h":198},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00030":
+{
+	"frame": {"x":1,"y":841,"w":441,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2546,"y":2124,"w":441,"h":198},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00031":
+{
+	"frame": {"x":444,"y":1014,"w":425,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2562,"y":2119,"w":425,"h":203},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00032":
+{
+	"frame": {"x":444,"y":1014,"w":425,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2562,"y":2119,"w":425,"h":203},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00033":
+{
+	"frame": {"x":444,"y":1014,"w":425,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2562,"y":2119,"w":425,"h":203},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00034":
+{
+	"frame": {"x":1,"y":1041,"w":424,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2563,"y":2132,"w":424,"h":190},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00035":
+{
+	"frame": {"x":1,"y":1041,"w":424,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2563,"y":2132,"w":424,"h":190},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鳄鱼2_00036":
+{
+	"frame": {"x":444,"y":846,"w":431,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2556,"y":2156,"w":431,"h":166},
+	"sourceSize": {"w":6732,"h":3898}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "data-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0bf999f33bf7a65880d414850aac01b8:cdfcda4ebecd4629fd65870a7dd72c1e:2719a9766c053557be5f69fb0281c6d5$"
+}
+}

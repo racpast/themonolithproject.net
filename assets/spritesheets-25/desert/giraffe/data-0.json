@@ -1,0 +1,332 @@
+{"frames": {
+
+"小长颈鹿2_00000":
+{
+	"frame": {"x":1269,"y":1563,"w":284,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1626,"w":284,"h":522},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00001":
+{
+	"frame": {"x":920,"y":2083,"w":284,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1626,"w":284,"h":522},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00002":
+{
+	"frame": {"x":920,"y":2083,"w":284,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1626,"w":284,"h":522},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00003":
+{
+	"frame": {"x":577,"y":2092,"w":284,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1626,"w":284,"h":522},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00004":
+{
+	"frame": {"x":1,"y":2079,"w":288,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1626,"w":288,"h":523},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00005":
+{
+	"frame": {"x":682,"y":1043,"w":299,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1627,"w":299,"h":522},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00006":
+{
+	"frame": {"x":1699,"y":522,"w":315,"h":521},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1628,"w":315,"h":521},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00007":
+{
+	"frame": {"x":1369,"y":522,"w":328,"h":520},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1629,"w":328,"h":520},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00008":
+{
+	"frame": {"x":343,"y":1042,"w":337,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":337,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00009":
+{
+	"frame": {"x":693,"y":522,"w":342,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":342,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00010":
+{
+	"frame": {"x":1045,"y":1,"w":345,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":345,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00011":
+{
+	"frame": {"x":1,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00012":
+{
+	"frame": {"x":1,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00013":
+{
+	"frame": {"x":349,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00014":
+{
+	"frame": {"x":349,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00015":
+{
+	"frame": {"x":697,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00016":
+{
+	"frame": {"x":697,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00017":
+{
+	"frame": {"x":697,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00018":
+{
+	"frame": {"x":697,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00019":
+{
+	"frame": {"x":697,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00020":
+{
+	"frame": {"x":697,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00021":
+{
+	"frame": {"x":697,"y":1,"w":346,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":346,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00022":
+{
+	"frame": {"x":1392,"y":1,"w":345,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1630,"w":345,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00023":
+{
+	"frame": {"x":1,"y":522,"w":345,"h":518},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1631,"w":345,"h":518},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00024":
+{
+	"frame": {"x":348,"y":522,"w":343,"h":518},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1631,"w":343,"h":518},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00025":
+{
+	"frame": {"x":1,"y":1042,"w":340,"h":517},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1632,"w":340,"h":517},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00026":
+{
+	"frame": {"x":1,"y":1561,"w":336,"h":516},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1633,"w":336,"h":516},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00027":
+{
+	"frame": {"x":1037,"y":522,"w":330,"h":516},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1633,"w":330,"h":516},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00028":
+{
+	"frame": {"x":1037,"y":1040,"w":321,"h":516},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2518,"y":1633,"w":321,"h":516},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00029":
+{
+	"frame": {"x":1360,"y":1044,"w":311,"h":517},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1632,"w":311,"h":517},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00030":
+{
+	"frame": {"x":1739,"y":1,"w":301,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1630,"w":301,"h":519},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00031":
+{
+	"frame": {"x":339,"y":1563,"w":293,"h":521},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1628,"w":293,"h":521},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00032":
+{
+	"frame": {"x":1673,"y":1045,"w":287,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1626,"w":287,"h":523},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00033":
+{
+	"frame": {"x":1269,"y":1563,"w":284,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1626,"w":284,"h":522},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00034":
+{
+	"frame": {"x":983,"y":1558,"w":284,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1625,"w":284,"h":523},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00035":
+{
+	"frame": {"x":634,"y":1567,"w":284,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1625,"w":284,"h":523},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00036":
+{
+	"frame": {"x":291,"y":2086,"w":284,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1625,"w":284,"h":523},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00037":
+{
+	"frame": {"x":1,"y":2604,"w":284,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1625,"w":284,"h":523},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00038":
+{
+	"frame": {"x":287,"y":2611,"w":283,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1625,"w":283,"h":523},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小长颈鹿2_00039":
+{
+	"frame": {"x":1,"y":3129,"w":283,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2517,"y":1625,"w":283,"h":523},
+	"sourceSize": {"w":6732,"h":3898}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "data-0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6a7f8a5c6d18b7660d0693b92254f108:b9f49416b96a30ebd8ee2e4c0e617fbb:2719a9766c053557be5f69fb0281c6d5$"
+}
+}

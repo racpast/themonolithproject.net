@@ -1,0 +1,324 @@
+{"frames": {
+
+"小鹦鹉2_00000":
+{
+	"frame": {"x":278,"y":1001,"w":275,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2136,"w":275,"h":307},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00001":
+{
+	"frame": {"x":278,"y":1001,"w":275,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2136,"w":275,"h":307},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00002":
+{
+	"frame": {"x":278,"y":1001,"w":275,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2136,"w":275,"h":307},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00003":
+{
+	"frame": {"x":278,"y":1001,"w":275,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2136,"w":275,"h":307},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00004":
+{
+	"frame": {"x":555,"y":996,"w":275,"h":314},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2129,"w":275,"h":314},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00005":
+{
+	"frame": {"x":278,"y":681,"w":275,"h":318},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2125,"w":275,"h":318},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00006":
+{
+	"frame": {"x":278,"y":681,"w":275,"h":318},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2125,"w":275,"h":318},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00007":
+{
+	"frame": {"x":278,"y":681,"w":275,"h":318},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2125,"w":275,"h":318},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00008":
+{
+	"frame": {"x":278,"y":681,"w":275,"h":318},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2125,"w":275,"h":318},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00009":
+{
+	"frame": {"x":555,"y":341,"w":275,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2115,"w":275,"h":328},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00010":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00011":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00012":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00013":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00014":
+{
+	"frame": {"x":555,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00015":
+{
+	"frame": {"x":278,"y":341,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00016":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00017":
+{
+	"frame": {"x":278,"y":341,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00018":
+{
+	"frame": {"x":555,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00019":
+{
+	"frame": {"x":278,"y":341,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00020":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00021":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00022":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00023":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00024":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00025":
+{
+	"frame": {"x":278,"y":1,"w":275,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2105,"w":275,"h":338},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00026":
+{
+	"frame": {"x":1,"y":1,"w":275,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2088,"w":275,"h":355},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00027":
+{
+	"frame": {"x":1,"y":1,"w":275,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2088,"w":275,"h":355},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00028":
+{
+	"frame": {"x":1,"y":1,"w":275,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2088,"w":275,"h":355},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00029":
+{
+	"frame": {"x":1,"y":358,"w":275,"h":330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2113,"w":275,"h":330},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00030":
+{
+	"frame": {"x":1,"y":358,"w":275,"h":330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2113,"w":275,"h":330},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00031":
+{
+	"frame": {"x":555,"y":671,"w":275,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2120,"w":275,"h":323},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00032":
+{
+	"frame": {"x":555,"y":671,"w":275,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2120,"w":275,"h":323},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00033":
+{
+	"frame": {"x":555,"y":671,"w":275,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2120,"w":275,"h":323},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00034":
+{
+	"frame": {"x":555,"y":671,"w":275,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2120,"w":275,"h":323},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00035":
+{
+	"frame": {"x":555,"y":671,"w":275,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2120,"w":275,"h":323},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00036":
+{
+	"frame": {"x":1,"y":690,"w":275,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2126,"w":275,"h":317},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00037":
+{
+	"frame": {"x":278,"y":1001,"w":275,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2136,"w":275,"h":307},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小鹦鹉2_00038":
+{
+	"frame": {"x":278,"y":1001,"w":275,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3278,"y":2136,"w":275,"h":307},
+	"sourceSize": {"w":6732,"h":3898}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "data-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dce7563b1a0030782829b9d73f7b625c:ea6b3ad2e7576135ed38abbe14a8ae7c:2719a9766c053557be5f69fb0281c6d5$"
+}
+}

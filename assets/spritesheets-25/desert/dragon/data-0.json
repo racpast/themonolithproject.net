@@ -1,0 +1,204 @@
+{"frames": {
+
+"小龙2_00000":
+{
+	"frame": {"x":468,"y":1311,"w":462,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3564,"y":1858,"w":462,"h":324},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00001":
+{
+	"frame": {"x":1,"y":1311,"w":465,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3561,"y":1857,"w":465,"h":325},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00002":
+{
+	"frame": {"x":1,"y":657,"w":466,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3559,"y":1857,"w":466,"h":325},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00003":
+{
+	"frame": {"x":1,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00004":
+{
+	"frame": {"x":1,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00005":
+{
+	"frame": {"x":470,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00006":
+{
+	"frame": {"x":470,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00007":
+{
+	"frame": {"x":939,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00008":
+{
+	"frame": {"x":939,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00009":
+{
+	"frame": {"x":1408,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00010":
+{
+	"frame": {"x":1408,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00011":
+{
+	"frame": {"x":1,"y":329,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00012":
+{
+	"frame": {"x":1,"y":329,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00013":
+{
+	"frame": {"x":1,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00014":
+{
+	"frame": {"x":1,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00015":
+{
+	"frame": {"x":1,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00016":
+{
+	"frame": {"x":470,"y":1,"w":467,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3557,"y":1856,"w":467,"h":326},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00017":
+{
+	"frame": {"x":1,"y":984,"w":466,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3559,"y":1857,"w":466,"h":325},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00018":
+{
+	"frame": {"x":1,"y":1638,"w":465,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3561,"y":1857,"w":465,"h":325},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00019":
+{
+	"frame": {"x":468,"y":1637,"w":462,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3564,"y":1858,"w":462,"h":324},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00020":
+{
+	"frame": {"x":469,"y":657,"w":462,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3564,"y":1858,"w":462,"h":324},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00021":
+{
+	"frame": {"x":469,"y":657,"w":462,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3564,"y":1858,"w":462,"h":324},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00022":
+{
+	"frame": {"x":470,"y":329,"w":462,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3564,"y":1858,"w":462,"h":324},
+	"sourceSize": {"w":6732,"h":3898}
+},
+"小龙2_00023":
+{
+	"frame": {"x":470,"y":329,"w":462,"h":324},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3564,"y":1858,"w":462,"h":324},
+	"sourceSize": {"w":6732,"h":3898}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "data-0.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:731055e3030fb5b5f33ccd8040ca20c0:700265c6be50c8bdcc9d7abc5c676241:2719a9766c053557be5f69fb0281c6d5$"
+}
+}
